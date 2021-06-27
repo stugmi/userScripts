@@ -5,4 +5,5 @@ To use install either one of these then go to the raw JS after clicking one of t
 
 
 ## Scripts
+Just click these links after installing either of the addons to install them
 * [twitter-HD.user.js](https://github.com/stugmi/userScripts/raw/main/HD-twitter.user.js) Forces videos on twitter to the highest quality
